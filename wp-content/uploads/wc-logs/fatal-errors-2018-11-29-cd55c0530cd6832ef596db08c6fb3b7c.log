@@ -1,0 +1,18 @@
+2018-11-29T16:55:55+00:00 CRITICAL Cannot redeclare tbz_wc_paystack_init() (previously declared in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-Paylot\woo-paystack.php:26) in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 53
+
+2018-11-29T16:55:59+00:00 CRITICAL Cannot redeclare tbz_wc_paystack_init() (previously declared in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-Paylot\woo-paystack.php:26) in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 53
+
+2018-11-29T16:56:00+00:00 CRITICAL Cannot redeclare tbz_wc_paystack_init() (previously declared in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-Paylot\woo-paystack.php:26) in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 53
+
+2018-11-29T16:56:25+00:00 CRITICAL require_once(): Failed opening required 'D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack/includes/class-paystack.php' (include_path='.;D:\xamp\php\PEAR') in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 31
+
+2018-11-29T16:57:47+00:00 CRITICAL require_once(): Failed opening required 'D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack/includes/class-paystack.php' (include_path='.;D:\xamp\php\PEAR') in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 31
+
+2018-11-29T16:58:29+00:00 CRITICAL require_once(): Failed opening required 'D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack/includes/class-paystack.php' (include_path='.;D:\xamp\php\PEAR') in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 31
+
+2018-11-29T16:58:32+00:00 CRITICAL require_once(): Failed opening required 'D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack/includes/class-paystack.php' (include_path='.;D:\xamp\php\PEAR') in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 31
+
+2018-11-29T16:58:46+00:00 CRITICAL require_once(): Failed opening required 'D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack/includes/class-paystack.php' (include_path='.;D:\xamp\php\PEAR') in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 31
+
+2018-11-29T16:59:09+00:00 CRITICAL require_once(): Failed opening required 'D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack/includes/class-paystack.php' (include_path='.;D:\xamp\php\PEAR') in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paystack\woo-paystack.php on line 31
+

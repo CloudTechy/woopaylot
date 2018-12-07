@@ -1,0 +1,12 @@
+2018-11-30T15:26:03+00:00 CRITICAL Class 'Tbz_WC_Paystack_Gateway' not found in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paylot\includes\class-wc-subscriptions.php on line 6
+
+2018-11-30T15:27:28+00:00 CRITICAL Class 'Tbz_WC_Gateway_Paystack_Subscription' not found in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paylot\includes\class-paylot-custom-gateway.php on line 3
+
+2018-11-30T15:28:38+00:00 CRITICAL Class 'Tbz_WC_Gateway_Paystack_Subscription' not found in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paylot\includes\class-paylot-custom-gateway.php on line 3
+
+2018-11-30T15:28:45+00:00 CRITICAL Class 'Tbz_WC_Gateway_Paystack_Subscription' not found in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paylot\includes\class-paylot-custom-gateway.php on line 3
+
+2018-11-30T15:28:55+00:00 CRITICAL Class 'Tbz_WC_Paystack_Custom_Gateway' not found in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paylot\includes\custom-gateways\class-gateway-one.php on line 3
+
+2018-11-30T15:29:46+00:00 CRITICAL Class 'Tbz_WC_Paystack_Custom_Gateway' not found in D:\xamp\htdocs\wordpress\wp-content\plugins\woo-paylot\includes\custom-gateways\class-gateway-one.php on line 3
+
